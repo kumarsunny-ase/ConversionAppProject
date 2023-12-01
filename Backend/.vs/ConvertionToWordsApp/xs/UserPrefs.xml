@@ -1,0 +1,50 @@
+﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True" StartupConfiguration="{90999E68-22C1-40B9-8480-4E0597F22B0E}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConvertionToWordsApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConvertionToWordsApp/Controllers/ConvertionController.cs">
+    <Files>
+      <File FileName="ConvertionToWordsApp/Models/Input.cs" />
+      <File FileName="ConvertionToWordsApp/Data/AppDbContext.cs" />
+      <File FileName="ConvertionToWordsApp/Controllers/ConvertionController.cs" Line="84" Column="53" />
+      <File FileName="ConvertionToWordsApp/Models/DTO/InputRequestDto.cs" Line="4" Column="15" />
+      <File FileName="ConvertionToWordsApp/Models/InputDto.cs" />
+      <File FileName="ConvertionToWordsApp/Repository/Interface/IinputRepository.cs" />
+      <File FileName="ConvertionToWordsApp/Repository/Implentation/InputRepository.cs" />
+      <File FileName="ConvertionToWordsApp/Program.cs" />
+      <File FileName="ConvertionToWordsApp/Models/DTO/getOutputDto.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConvertionToWordsApp" expanded="True">
+            <Node name="ConvertionToWordsApp" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ConvertionController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="DTO" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Repository" expanded="True">
+                <Node name="Implentation" expanded="True" />
+                <Node name="Interface" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kumarsunny/Desktop/TaskForKLA/ConvertionToWordsApp/ConvertionToWordsApp/Controllers/ConvertionController.cs" relfile="ConvertionToWordsApp/Controllers/ConvertionController.cs" line="63" column="1" />
+      <Breakpoint file="/Users/kumarsunny/Desktop/TaskForKLA/ConvertionToWordsApp/ConvertionToWordsApp/Controllers/ConvertionController.cs" relfile="ConvertionToWordsApp/Controllers/ConvertionController.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
