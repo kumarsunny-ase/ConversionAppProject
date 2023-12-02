@@ -1,0 +1,37 @@
+.container {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  h1 {
+    color: #2CADED;
+  }
+
+  .row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .form-group {
+    margin-bottom: 15px;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  th {
+    background-color: #2CADED;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+  }
+
+  th, td {
+    border: 2px solid #121517;
+    padding: 10px;
+    text-align: left;
+  }

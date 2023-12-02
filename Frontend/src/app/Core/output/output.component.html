@@ -1,0 +1,22 @@
+<!-- Output Table -->
+<!-- *ngIf="getAmountResponse$ | async as getAmountResponse" -->
+<!-- {{getAmountResponse?.amounts}} -->
+<div class="row" *ngIf="getAmountResponse">
+  <div class="col-md-6 mx-auto">
+      <table class="table table-bordered mt-3" >
+        <thead>
+          <tr>
+            <th>Expected Output</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr >
+            <td >
+              {{getAmountResponse.amounts}}
+            </td>
+          </tr>
+        </tbody>
+      </table>
+  </div>
+  </div>
+
